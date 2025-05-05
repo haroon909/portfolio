@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-background text-text;
+}
+
+.snowflake {
+    background-color: white;
+    opacity: 0.8;
+    border-radius: 50%;
+  }
+  
