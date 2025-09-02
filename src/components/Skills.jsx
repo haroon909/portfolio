@@ -8,14 +8,10 @@ const Skills = () => {
     "JavaScript",
     "PHP",
     "C#",
-    "ASP.NET",
+    "ASP.NET MVC",
     "React",
-    "Angular",
-    "Node.js",
     "Flutter",
     "Dart",
-    "MySQL",
-    "MS-SQL",
     "Git",
   ];
 
